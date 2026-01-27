@@ -1,0 +1,22 @@
+---
+title: "Victor Coelho"
+image: images/profile.jpg
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/victor-coelho-1706981b0/
+      target: _blank
+    - icon: github
+      href: https://github.com/victorcoelhoab
+      target: _blank
+    - text: "{{< iconify simple-icons:researchgate >}}"
+      href: https://www.researchgate.net/profile/Victor-Alberto-Coelho?ev=hdr_xprf
+      target: _blank
+    - text: CV
+      href: cv/resume.pdf
+---
+
+## About Me
+
+I am a PhD candidate and hold a Master’s degree in Political Science from the Federal University of São Carlos (UFSCar), where I also completed my undergraduate studies in Social Sciences. I work in the areas of political behavior and political psychology, with a focus on experimental methods and quantitative analysis. Currently, my PhD research explores the relationship between religion and political behavior.

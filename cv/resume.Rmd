@@ -1,0 +1,150 @@
+---
+title: "Rodrigo Dal Ben's resume"
+author: Rodrigo Dal Ben
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css:
+      - override.css # override main css 
+      - resume # template
+   # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dalbenwork@gmail.com
+- <i class="fa fa-github"></i> [github.com/RodDalBen](https://github.com/RodDalBen)
+- <i class="fa fa-globe"></i> [roddalben.github.io](https://roddalben.github.io/)
+
+<i class="fa fa-code"></i> R, Python, SQL {#skills}
+--------------------------------------------------------------------------------
+
+Proficient in R, Python, and SQL for data science applications. Experienced with Markdown and Shiny for reproducible research.
+
+<i class="fa fa-code-branch"></i> Git, CI/CD {#skills}
+--------------------------------------------------------------------------------
+
+Experienced with version control systems (Git, GitHub, GitLab) and continuous integration/continuous deployment (CI/CD) workflows.
+
+<i class="fa fa-chart-pie"></i> Data analysis, modelling {#skills}
+--------------------------------------------------------------------------------
+
+Skilled in statistical and machine learning modelling. Proficient in creating publication-quality visualizations and deriving actionable insights from complex datasets.
+
+{#skills}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-chart-line"></i> Impact {#skills}
+--------------------------------------------------------------------------------
+
+- 18 peer-reviewed publications
+- 60+ scientific presentations
+- 200+ students trained in research methods and statistics
+- $430,000+ on research funding
+
+R. Dal Ben - `r Sys.Date()`
+
+
+Main
+================================================================================
+
+Rodrigo Dal Ben {#title}
+--------------------------------------------------------------------------------
+
+### Data Science | Patient-Centred Outcomes research | Real-World Evidence 
+
+Employment History {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Senior Research Analyst
+
+Cumming School of Medicine, University of Calgary
+
+AB, Canada
+
+2024 -
+
+- Focus on Patient-Reported Outcomes Research
+- Health Economics RWD from multinational consortia
+- Develop reproducible polyglot analytic pipelines 
+- Develop automated and reproducible statistical reporting 
+- Implement best practices on scalable data management
+
+### Data Scientist
+
+Bee Touch - Workforce Mental Health
+
+Remote
+
+2023 - 2025
+
+- Develop metrics from RWE on mental health  
+- Develop statistical and ML models based on RWD  
+- Develop reproducible data storytelling  
+- Report to industry stakeholders & scientific community
+
+### Assistant Professor
+
+Ambrose University
+
+AB, Canada
+
+2022 - 2025
+
+- Teach Applied Statistics, Research Methods, Developmental Science
+- Develop open-source scientific software
+- Mentor students on advanced research skills 
+- Collaborate on big-team multinational consortia  
+
+### Horizon Postdoctoral Fellow
+
+Concordia University
+
+QC, Canada
+
+2020 - 2021
+
+-	Implement Open Science best practices to infant research
+- Develop reproducible data analysis pipeline for eye-tracking data using advanced statistical methods
+- Develop open-source scientific software
+- Participate on big-team science  
+  
+
+Certificates {data-icon=stamp data-concise=true}
+--------------------------------------------------------------------------------
+
+### Specialization, AI in Healthcare
+
+Stanford University, edX
+
+Remote
+
+2025 -
+
+### Professional certificate, Data Science
+
+Harvard University, edX
+
+Remote
+
+2022
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D. in Psychology
+
+Federal University of Sao Carlos & University of Tennessee
+
+Brazil & USA
+
+2020
+   
