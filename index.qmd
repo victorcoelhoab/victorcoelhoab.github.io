@@ -1,5 +1,6 @@
 ---
 title: "Victor Coelho"
+subtitle: "Political Scientist"
 image: images/profile.jpg
 about:
   template: solana
